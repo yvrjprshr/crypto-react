@@ -1,0 +1,5 @@
+.box {
+  display: flex;
+  height: 95.7vh;
+  flex-direction: row;
+}

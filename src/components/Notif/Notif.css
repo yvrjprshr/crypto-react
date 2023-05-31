@@ -1,0 +1,8 @@
+.notif{
+    height: 30px;
+    background-color: #3772FF;
+    ;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
